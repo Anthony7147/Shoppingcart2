@@ -52,3 +52,4 @@ gem 'dotenv-rails', :groups => [:development, :test]
 gem 'spree', '~> 3.2.0.rc1'
 gem 'spree_auth_devise', '~> 3.2.0.beta'
 gem 'spree_gateway', '~> 3.2.0.beta'
+gem 'bootstrap-kaminari-views', '~> 0.0.5'
